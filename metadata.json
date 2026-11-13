@@ -1,0 +1,6 @@
+{
+  "name": "Dharsan: Temple Dash",
+  "description": "3D endless temple runner starring Dharsan. Sprint across ancient stone causeways, turn 90-degree corners, leap chasms, slide under ruins, and outrun the temple guardian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
